@@ -1,0 +1,106 @@
+[
+    {
+      "table": "lista_sedes",
+      "data": [
+        {
+          "id": "0301",
+          "name": "Sede Principal"
+        },
+        {
+          "id": "0302",
+          "name": "Oficinas Desconcentradas"
+        }
+      ]
+    },
+    {
+      "table": "sexo",
+      "data": [
+        {
+          "id": "M",
+          "name": "Masculino"
+        },
+        {
+          "id": "F",
+          "name": "Femenino"
+        }
+      ]
+    },
+    {
+      "table": "tipo_documentos",
+      "data": [
+        {
+          "id": "0101",
+          "name": "DNI"
+        },
+        {
+          "id": "0102",
+          "name": "Carné de extranjería"
+        }
+      ]
+    },
+    {
+      "table": "tipo_eventos",
+      "data": [
+        {
+          "id": "0201",
+          "name": "Charlas"
+        },
+        {
+          "id": "0202",
+          "name": "Actividades recreacionales"
+        },
+        {
+          "id": "0203",
+          "name": "Auditoria"
+        }
+      ]
+    },
+    {
+      "table": "dias",
+      "data": [
+        {
+          "id": "L",
+          "name": "Lunes"
+        },
+        {
+          "id": "M",
+          "name": "Martes"
+        },
+        {
+          "id": "MI",
+          "name": "Miercoles"
+        },
+        {
+          "id": "J",
+          "name": "Jueves"
+        },
+        {
+          "id": "V",
+          "name": "Viernes"
+        },
+        {
+          "id": "S",
+          "name": "Sábado"
+        },
+        {
+          "id": "D",
+          "name": "Domingo"
+        }
+        
+      ]
+    },
+    {
+      "table": "usuarios",
+      "data": [
+        {
+          "id": 1, "nombre": "Juan Perez", "username": "jperez", "password": "123456", "perfil" : "admin"
+        },
+        {
+          "id": 1, "nombre": "Jesus natos", "username": "jmatos", "password": "123456", "perfil" : "admin"
+        },
+        {
+          "id": 1, "nombre": "Jean Martinez", "username": "jmartinez", "password": "123456", "perfil" : "profesor"
+        }
+      ]
+    }
+  ]
